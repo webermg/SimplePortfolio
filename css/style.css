@@ -3,7 +3,17 @@
     color: white;
 }
 
-.image {
+body {
+    
     background-image: url("../assets/backgroundtile.gif");
+}
+
+.bio {
+    font-size: 18px;
+}
+
+.portrait {
+    width: 250px;
+    /* height: 250px; */
 }
 
