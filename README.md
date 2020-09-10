@@ -6,5 +6,7 @@ The page was built using Bootstrap with minimal custom CSS.  On phones the conte
 
 https://webermg.github.io/SimplePortfolio/
 
-
+![Home Page](/images/hompage.png?raw=true)
+![Portfolio Page](/images/portfoliopage.png?raw=true)
+![Contact Page](/images/contactpage.png?raw=true)
 
