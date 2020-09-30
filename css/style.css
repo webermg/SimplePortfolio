@@ -1,10 +1,41 @@
 
 body {
     
-    background-image: url("../assets/backgroundtile.gif");
+    background-image: url("../assets/backgroundimage.jpg");
 }
 
 .portrait {
     width: 250px;
 }
 
+.project {
+    min-height: 310px;
+}
+
+.light-grey {
+    background-color: #EEE !important;
+}
+
+.med-light-grey {
+    background-color: #CCC !important;
+}
+
+.text-med-light-grey {
+    color: #CCC;
+}
+
+.text-med-grey {
+    color: #999;
+}
+
+.yellow {
+    background-color: #fec637;
+}
+
+.text-burgundy {
+    color: #551400;
+}
+
+.border-burgundy {
+    border-color: #551400 !important;
+}
